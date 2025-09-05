@@ -2,7 +2,7 @@
   "name": "Zigbee2MQTT Луиза",
   "version": "2.6.1-1",
   "slug": "zigbee2mqtt",
-  "description": "Use your ZigBee devices without the vendor's bridge or gateway",
+  "description": "Use your Luiza ZigBee devices without the vendor's bridge or gateway",
   "breaking_versions": [
     "2.0.0-1"
   ],
@@ -43,7 +43,7 @@
     }
   ],
   "ports": {
-    "8485/tcp": 8485,
+    "8685/tcp": 8685,
     "8099/tcp": null
   },
   "ports_description": {
